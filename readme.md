@@ -39,7 +39,7 @@ yarn test
 
 ---
 
-## Test Jest
+## Demonstração
 
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/davidfaria/bootcamp-11-desafio-conceitos-react-native/master/.github/demo.gif">
